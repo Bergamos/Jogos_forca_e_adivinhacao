@@ -1,0 +1,10 @@
+volei
+natacao
+corrida
+tenis
+futebol
+skate
+surf
+golf
+basquete
+boxe

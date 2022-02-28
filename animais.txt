@@ -1,0 +1,10 @@
+macaco
+cachorro
+gato
+cavalo
+porco
+vaca
+camelo
+canguru
+tucano
+zebra
